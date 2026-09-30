@@ -1,0 +1,6 @@
+# data/
+project - notes/
+node_modules/
+.svelte-kit/
+build/
+.env
